@@ -6,7 +6,9 @@
 ## 🧩 Objective
 Set up a **CI/CD pipeline** to automatically build, test, and deploy a sample **Node.js web app** using **GitHub Actions** and **Docker**.
 
+
 ---
+
 
 ## ⚙️ Tools & Technologies
 - **GitHub**
@@ -47,7 +49,7 @@ Set up a **CI/CD pipeline** to automatically build, test, and deploy a sample **
 
 ---
 
-## 🧠 Key CI/CD Concepts
+## 🧠 Key CI/CD Concepts:
 
 | Concept | Description |
 |----------|--------------|
