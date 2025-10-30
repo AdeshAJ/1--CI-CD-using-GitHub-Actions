@@ -10,7 +10,7 @@ Set up a **CI/CD pipeline** to automatically build, test, and deploy a sample **
 ---
 
 
-## ⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies:
 - **GitHub**
 - **GitHub Actions**
 - **Node.js**
